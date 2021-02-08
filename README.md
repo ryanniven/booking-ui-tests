@@ -4,7 +4,6 @@ UI test suite for the $BOOKINGAPPNAMEHERE using WebDriver and Cucumber.
 ## Running the tests
 
 Prior to executing the tests ensure you have:
- - Docker - to run mongo and browser (Chrome or Firefox) inside a container 
  - Appropriate [drivers installed](#installing-local-driver-binaries) - to run tests against locally installed Browser
 
 
